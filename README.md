@@ -17,8 +17,8 @@
 ## 🛠️ Tech Stack
 
 - **Frontend**:  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React)
-  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 
 - **Backend (Sub):**  
